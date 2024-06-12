@@ -1,7 +1,7 @@
 # DATA_SCIENCE_MINI_PROJECT
 
 ## 1. Project Overview(Analysis of NEPSE)
-)
+
 This project focuses on the analysis of the Nepal Stock Exchange (NEPSE) using a dataset obtained from the Nepal Rastra Bank website. The analysis includes the sectoral performance and market capitalization trends of NEPSE.
 
 ### Team Members
